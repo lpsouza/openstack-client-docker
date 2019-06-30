@@ -1,0 +1,5 @@
+#!/bin/bash
+
+. openrc
+
+openstack $*

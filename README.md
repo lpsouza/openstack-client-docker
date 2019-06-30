@@ -4,7 +4,7 @@ This is a implementation of Openstack CLI commands in a container.
 
 ## Versions supported
 
-- Queens (12.0.0)
+- [Queens (12.0.0)](https://docs.openstack.org/python-openstackclient/queens/)
 
 ## Usage
 
